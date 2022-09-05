@@ -13,7 +13,7 @@ The following is a particular list of projects:
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author:
-* **[Ajiboye Adeleye](https://www.linkedin.com/in/ajiboye-adeleye-b561a7211/)
+* [Ajiboye Adeleye](https://www.linkedin.com/in/ajiboye-adeleye-b561a7211/)
 
 ## Acknowledgements:
 
