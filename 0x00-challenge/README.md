@@ -1,7 +1,7 @@
 # Fix my code
 
-The initial set of debugging tasks.
-Bugged Python, Javascript, Ruby, and C programs were involved.
+The first set of debugging challenges. Involved bugged programs written in
+Python, Javascript, Ruby and C.
 
 ## Tasks
 
